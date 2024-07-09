@@ -32,6 +32,11 @@
         right: -80px;
     }
 
+    .lu-hero-banner-right-video-above p {
+        font-size: 20px;
+        margin-left: 20px;
+    }
+
 
 }
 
@@ -60,6 +65,14 @@
 
     .lu-hero-lower-left h2 {
         margin-bottom: 25px;
+    }
+
+    .lu-hero-banner-right-video-above {
+        margin-top: 60px;
+    }
+
+    .lu-hero-banner-right-video-above p {
+        font-size: 22px;
     }
 
 
@@ -186,6 +199,13 @@
         font-size: 22px;
     }
 
+    .lu-hero-banner-right-video-above p {
+        font-size: 19px;
+    }
+    .lu-hero-banner-right-video-above {
+        padding: 8px 0;
+    }
+
 
 }
 
@@ -225,6 +245,9 @@
     }
     .single-lu-hero-lower-content p {
         font-size: 15px;
+    }
+    .lu-hero-banner-right-video-above p {
+        font-size: 14px;
     }
 
 }
