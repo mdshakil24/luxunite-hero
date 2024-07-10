@@ -46,6 +46,10 @@
         padding: 0 20px;
     }
 
+    .single-lu-hero-lower-content h4 {
+        font-size: 22px;
+    }
+
 
 }
 
@@ -261,6 +265,12 @@
     }
     .lu-hero-banner-right-video-above p {
         font-size: 14px;
+    }
+    .single-lu-hero-lower-content h4 {
+        font-size: 22px;
+    }
+    .single-lu-hero-lower-content p {
+        font-size: 16px;
     }
 
 }
