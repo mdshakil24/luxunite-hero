@@ -53,7 +53,7 @@ li {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
-  padding: 50px 0;
+  padding: 35px 0;
 }
 
 .lu-hero-banner-content {
@@ -86,8 +86,10 @@ li {
 }
 
 .lu-hero-banner-watch-image img {
-  width: 100%;
+  width: 95%;
   height: auto;
+  margin: 0 auto;
+  display: block;
 }
 
 .lu-hero-banner-winner-btn {
@@ -97,7 +99,7 @@ li {
 .lu-hero-banner-winner-btn a {
   font-family: 'Proxima Nova Th';
   font-weight: 800;
-  font-size: 35px;
+  font-size: 32px;
   color: #000000;
   text-transform: uppercase;
   background: linear-gradient(to right, #AFB2AC 0%, #FFFFFF 100%);
@@ -167,7 +169,7 @@ li {
 }
 
 .lu-hero-lower-content {
-  margin-top: 60px;
+  margin-top: 30px;
 }
 
 .lu-hero-lower-content .row {
@@ -175,7 +177,7 @@ li {
 }
 
 .lu-hero-lower-left h2 {
-  font-size: 54px;
+  font-size: 50px;
   text-align: center;
   margin-left: 40px;
   line-height: 1;

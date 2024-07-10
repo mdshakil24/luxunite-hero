@@ -36,6 +36,15 @@
         font-size: 20px;
         margin-left: 20px;
     }
+    .single-lu-hero-lower-content p {
+        font-size: 14px;
+    }
+    .single-lu-hero-lower-content {
+        padding: 15px 0;
+    }
+    .lu-hero-lower-right {
+        padding: 0 20px;
+    }
 
 
 }
@@ -204,6 +213,10 @@
     }
     .lu-hero-banner-right-video-above {
         padding: 8px 0;
+    }
+
+    .lu-hero-banner-watch-image img {
+        width: 100%;
     }
 
 
